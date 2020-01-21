@@ -1,2 +1,2 @@
-# kmeans_Femodel
-Unsupervised clustering (k means) for two global 3D Fe models: Parekh et al., 2005 and Pham and Ito, 2019
+This is a repository of data files and MATLAB scripts used in the manuscript "Upper ocean iron patterns controlled by internal cycling processes" by Anh L.D. Pham and Takamitsu Ito. 
+Please be aware that this is a still ongoing project.
