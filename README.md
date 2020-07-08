@@ -6,4 +6,5 @@ Grid.zip file stores information about the model grid point
 
 
 
-MATLAB_Scripts.zip file contains MATLAB scripts to reproduce figures in the manuscript.
+UMAP_paper.py
+Data.zip
